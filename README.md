@@ -1,1 +1,5 @@
-# C_Programming
+# C Piscine @ 42 Barcelona
+
+CAT
+🇪🇸
+🇬🇧
