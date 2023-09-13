@@ -1,5 +1,5 @@
-# C Piscine @ 42 Barcelona
+# C Piscine @42Barcelona
 
-CAT
-🇪🇸
-🇬🇧
+CAT >>
+🇪🇸 >>
+🇬🇧 >>
