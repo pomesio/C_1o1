@@ -8,12 +8,11 @@
 
 🇵🇹 Este é o meu repositório durante os **26 dias** do processo de seleção da [42Barcelona](https://www.42barcelona.com/es), de 2 de julho a 1 de agosto de 2023. Contém programas e funções desenvolvidos com a **linguagem C**.
 
-
             :::      ::::::::
-	      :+:      :+:    :+:
-  	    +:+ +:+         +:+
-	  +#+  +:+       +#+      By: jade-car <jade-car@student.42barcel>
-    +#+#+#+#+#+   +#+         Created: 2023/07/02 15:49:50 by jade-car
-	    #+#    #+#            Updated: 2023/08/01 17:45:00 by jade-car
+          :+:      :+:    :+:
+        +:+ +:+         +:+
+      +#+  +:+       +#+      
+    +#+#+#+#+#+   +#+          By: jade-car <jade-car@student.42barcel>
+        #+#    #+#            
        ###   ########.fr
-  
+
