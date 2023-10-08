@@ -1,5 +1,5 @@
-# C Piscine @42Barcelona
-
+# C Piscine [42Barcelona](https://www.42barcelona.com/es)
+From July 2nd, 2023 to August 1st, 2023
 CAT >>
-🇪🇸 >> Este repositorio\n
-🇬🇧 >> This collection of coding projects have been developed with **C programming** in [42Barcelona](https://www.42barcelona.com/es), from July 02, 2023 to August 01, 2023. 🌍
+🇪🇸 >> Este repositorio de proyectos en C ha sido des
+🇬🇧 >> This collection of coding projects was developed with **C programming** at [42Barcelona](https://www.42barcelona.com/es), from July 2nd, 2023 to August 1st, 2023. 🌍
