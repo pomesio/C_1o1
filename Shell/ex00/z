@@ -1,3 +1,4 @@
 # Create a file that displays a capital Z in the standard output followed by a new line.
 # If we use nano or vim, it automatically adds a new line.
+# DELETE DE COMMENT
 Z
