@@ -1,4 +1,4 @@
-# DELETE LINES THE LINES 1 to 7 :
+# DELETE LINES THE LINES 1 to 10 :
 # 0.This is an exercise where a diff file is created to indicate the differences between two files, 'a' and 'b'. And the difference is saved in 'b'.
 # What we need? The command 'diff', compares two files line by line. We must indicate if there is any difference between the two files. I assume that file 'a' contains more information than file 'b'. To know if there is any difference we have to:
 
