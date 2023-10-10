@@ -1,1 +1,6 @@
 find . -type f \( -name "*~" -o -name "#*#" \) -print -delete
+
+# DELETE LINES 3 to 6:
+# This set of shell commands searches the current directory and subdirectories for regular file types. 
+# Those files must meet the search criteria: names that end with ~ or begin and end with #*#. 
+# Finally it is shown on the standard screen and deleted.
