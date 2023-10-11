@@ -23,3 +23,8 @@ void	ft_print_reverse_alphabet(void)
 		letter--;
 	}
 }
+
+/*Prints the alphabet in reverse order, from z to a. 
+It does this by using a while loop to iterate over the ASCII codes for 
+the lowercase letters, from 122 to 97. For each iteration, the function writes 
+the ASCII code to the standard output (stdout) using the write() function.*/
