@@ -23,3 +23,5 @@ void	ft_print_numbers(void)
 		num++;
 	}
 }
+/*Print numbers from 0 to 9, for each iteration shows the in the standard output
+and add 1 to num.*/
