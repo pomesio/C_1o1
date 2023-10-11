@@ -20,6 +20,7 @@ void	ft_out(char x, char y, char z)
 	if (x == '7' && y == '8' && z == '9')
 	{
 		write(1, "", 0);
+		/* 🚨 '0' because I don't want to print anything.*/
 	}
 	else
 	{
@@ -42,7 +43,7 @@ void	ft_print_comb(void)
 			z = y + 1;
 			while (z <= '9')
 			{
-				ft_out(x, y, z);
+				ft_out(x, y, z); //We call the function here
 				z++;
 			}
 			y++;
