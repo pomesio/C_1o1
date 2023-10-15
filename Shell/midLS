@@ -1,8 +1,0 @@
-ls -lmtp
-
-# DELETE THE LINES 3 to 8
-# Shows the contents of the directories in list form:
-# -In long format and with more details.
-# -separated by commas.
-# -sorted by modification time.
-# -write a slash (`/') after each filename if that file is a directory.
